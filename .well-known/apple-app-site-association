@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "WVGSS5MNUY.com.cashlink.StarMpay",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
