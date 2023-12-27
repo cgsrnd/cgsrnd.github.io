@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "WVGSS5MNUY.cgsrnd.github.io",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
